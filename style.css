@@ -166,12 +166,13 @@ body{
    }
    .front{
     position: relative;
-        width: 280px;
+        width: 60%;
         height: 200px;
         left: 1%;
         top: -1700px;
         font-size: 30px;
         text-align: revert;
+        margin: auto;
    }
    .cross{
     padding-left: 50px;
@@ -225,7 +226,7 @@ body{
                 left: 50%;
         }
         .tab3{
-            width: 800px;
+            width: 100%;
         }
         .icon1{
             margin-top: 25px;
